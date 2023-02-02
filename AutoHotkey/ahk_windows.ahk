@@ -26,8 +26,8 @@ return
   return 
 
 ;change to imeEnglish
-^Space::
-  Goto, imeEnglish ;<ctrl>-<spacebar>
+!Space::
+  Goto, imeEnglish ;<alt>-<spacebar>
   return 
 
 imeKorean:
