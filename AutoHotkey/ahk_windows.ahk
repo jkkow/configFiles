@@ -8,12 +8,6 @@
 !9:: Send {Delete}
 !0:: Send {BackSpace}
 
-;pasting current date-time
-^\:: ;<ctrl>-\
-FormatTime, time, A_now, yyyyMMdd_HHmmss
-Send %time%
-return
-
 ;pasting current date with
 ^!\:: ;<ctrl>-<shift>-\
 FormatTime, time, A_now, yyMMdd 
