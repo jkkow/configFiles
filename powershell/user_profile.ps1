@@ -1,5 +1,5 @@
 # Alias
-New-Alias -Name v -Value nvim  # New-Alias for setting new alias
+New-Alias -Name vim -Value nvim  # New-Alias for setting new alias
 Set-Alias ll ls # Set-Alias for change existing alias to another
 function lld { Get-ChildItem -Directory}
 function gs { & git status }
