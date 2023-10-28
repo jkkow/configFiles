@@ -1,34 +1,31 @@
+;script for Autohotkey 1.1
+;works with previous version of IME on Windows 11
+
 ;Commands with <alt>
-!h:: Send {Left} 
+; !h:: Send {Left} 
 !j:: Send {Down}
 !k:: Send {Up}
-!l:: Send {Right}
+; !l:: Send {Right}
 !y:: Send {Home}
 !o:: Send {End}
 !9:: Send {Delete}
 !0:: Send {BackSpace}
 
-;pasting current date-time
-^\:: ;<ctrl>-\
-FormatTime, time, A_now, yyyyMMdd_HHmmss
-Send %time%
-return
+; ;pasting current date with
+; ^!\:: ;<ctrl>-<shift>-\
+; FormatTime, time, A_now, yyMMdd 
+; Send %time%
+; return
 
-;pasting current date with
-^!\:: ;<ctrl>-<shift>-\
-FormatTime, time, A_now, yyMMdd 
-Send %time%
-return
-
-;change to imeKorean
-+Space:: ;<shift>-<spacebar>
-  Goto, imeKorean 
-  return 
-
-;change to imeEnglish
-^Space::
-  Goto, imeEnglish ;<ctrl>-<spacebar>
-  return 
+; ;change to imeKorean
+; +Space:: ;<shift>-<spacebar>
+;   Goto, imeKorean 
+;   return 
+;
+; ;change to imeEnglish
+; !Space::
+;   Goto, imeEnglish ;<alt>-<spacebar>
+;   return 
 
 imeKorean:
   if IME_CHECK("A")=0
