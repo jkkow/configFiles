@@ -33,9 +33,14 @@ export PATH="$PATH:$HOME/.local/bin"
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-alias fzb="fzf --preview 'bat --color=always --style=numbers --line-range=:200 {}'"
+alias fa="fzf --preview 'bat --color=always --style=numbers --line-range=:200 {}'"
 alias cc="xclip -selection clipboard"
 alias cpwd="pwd | cc"
+
+alias lld="eza -lhD --icons"
+alias llf="eza -lhf --icons"
+alias lla="eza -lha --icons"
+alias tree="eza -lh --icons --tree"
 
 # init Starship
 eval "$(starship init zsh)"
