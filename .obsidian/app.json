@@ -1,0 +1,28 @@
+{
+  "vimMode": true,
+  "spellcheck": true,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettel→",
+  "attachmentFolderPath": "Files",
+  "promptDelete": false,
+  "showFrontmatter": false,
+  "fileSortOrder": "byCreatedTime",
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 70
+  },
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "visible",
+  "rightToLeft": false,
+  "userIgnoreFilters": null,
+  "tabSize": 2
+}

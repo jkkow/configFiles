@@ -1,0 +1,14 @@
+{
+  "interfaceFontFamily": "Pretendard,Hack Nerd Font,Cascadia Code",
+  "textFontFamily": "Pretendard",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font,D2Coding",
+  "baseFontSize": 15,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "simple_heading"
+  ],
+  "translucency": true,
+  "accentColor": "#2ead58",
+  "nativeMenus": false,
+  "theme": "obsidian"
+}

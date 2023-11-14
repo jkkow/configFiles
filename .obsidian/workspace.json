@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "bd5733359d335291",
+    "type": "split",
+    "children": [
+      {
+        "id": "60dcf993e8bb06f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8ce7367bca14044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettel→/Git 브랜치 삭제.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e5206fdd10e5424",
+    "type": "split",
+    "children": [
+      {
+        "id": "247e434d0b768def",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a54b4a3da1cf718f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "bba2677d0914d27f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cd916a192e8a5d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "719d98ad83dd28a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1952c137158149a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b875b081d126b79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "feef8d6b5fd4c315",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettel→/Git 브랜치 삭제.md"
+              }
+            }
+          },
+          {
+            "id": "e160c216686d7e19",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c0b57c39db27d31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettel→/Git 브랜치 삭제.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76ea0ee278e750ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettel→/Git 브랜치 삭제.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf1f62e91d80e922",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "454e473968f12a45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b8ce7367bca14044",
+  "lastOpenFiles": [
+    "Zettel→/원격 브랜치 삭제.md",
+    "Zettel→/Git 브랜치 삭제.md",
+    "Zettel→/Git 브랜치 삭제.md",
+    "Zettel→/Formatter.md",
+    "Zettel→/CSV handling with csv.md",
+    "Zettel→/Setup - PowerShell.md",
+    "Zettel→/List - scoop installed Windows packages.md",
+    "Zettel→/bat 설치.md",
+    "Zettel→/파이썬 코딩도장.md",
+    "Zettel→/CSV handling with pandas.md",
+    "Zettel→/csv.md",
+    "Zettel→/Locator.md",
+    "Templates/TPL. Keywords File.md",
+    "Templates/TPL. General Note.md",
+    "Templates/TPL. Idea.md",
+    "Templates/TPL. modified datetime.md",
+    "Templates/TPL. Code Snipet.md",
+    "Templates/TPL. Daily Notes.md",
+    "Templates/TPL. Diary.md",
+    "Zettel→/Polarization Maintaining Fiber.md",
+    "Zettel→/Arrows and Text Annotation.md",
+    "Files/Pasted image 20231114223536.png",
+    "Zettel→/PMF 특성 Beat Length와 PER.md",
+    "Zettel→/Polarization Extinction Ratio.md",
+    "References/@1998_Fundamentals of optics.md",
+    "Zettel→/Beat Length.md",
+    "Zettel→/기하광학.md",
+    "Zettel→",
+    "Files/20231114122001-markmode.gif",
+    "Files/Pasted image 20231114104113.png",
+    "Untitled",
+    "TEST",
+    "Zettel  ~/Untitled",
+    "Files/Pasted image 20231005210040.png",
+    "Files/Pasted image 20231006084441.png",
+    "Files/Pasted image 20231112184440.png",
+    "Files/Pasted image 20231112184420.png",
+    "Files/Pasted image 20231112134940.png",
+    "Files/Pasted image 20231112134924.png",
+    "Files/Pasted image 20231112133853.png",
+    "Files/matplotlib-handout-tips.pdf",
+    "Files/matplotlib-handout-beginner.pdf",
+    "Files/matplotlib-handout-intermediate.pdf",
+    "Canvas/유럽역사의 형성.canvas",
+    "Canvas/Canvas Practice.canvas",
+    "Canvas",
+    "References/Untitled.canvas",
+    "Zettel  ~/python.md~RF2d3e5063.TMP",
+    "Zettel  ~/역행렬의 성질.md~RF2d3e5005.TMP"
+  ]
+}
