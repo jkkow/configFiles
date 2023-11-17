@@ -44,7 +44,7 @@ imeEnglish:
   }
   return 
 
-; chech keyboard input language whenever press `ESC` and if it's Korean, change it to English.
+; check keyboard input language whenever press `ESC` and if it's Korean, change it to English.
 $Esc::
   if(IME_CHECK("A"))
       Send, {VK15}   ;if keyboard input is Korean, change it to English. 
