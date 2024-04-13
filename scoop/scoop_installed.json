@@ -1,0 +1,386 @@
+{
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2024-04-13T09:34:44+09:00",
+            "Manifests": 2008
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2024-04-13T06:04:33+09:00",
+            "Manifests": 1313
+        },
+        {
+            "Name": "nerd-fonts",
+            "Source": "https://github.com/matthewjberger/scoop-nerd-fonts",
+            "Updated": "2024-04-13T00:20:15+09:00",
+            "Manifests": 336
+        },
+        {
+            "Name": "sysinternals",
+            "Source": "https://github.com/niheaven/scoop-sysinternals",
+            "Updated": "2024-02-21T19:02:04+09:00",
+            "Manifests": 75
+        },
+        {
+            "Name": "versions",
+            "Source": "https://github.com/ScoopInstaller/Versions",
+            "Updated": "2024-04-13T05:27:43+09:00",
+            "Manifests": 449
+        }
+    ],
+    "apps": [
+        {
+            "Updated": "2023-09-27T22:09:24.4462082+09:00",
+            "Version": "23.01",
+            "Name": "7zip",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-04-11T23:26:10.4116229+09:00",
+            "Version": "24.04",
+            "Name": "anki",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-21T15:19:53.4561221+09:00",
+            "Version": "1.1.37.02",
+            "Name": "autohotkey1.1",
+            "Info": "",
+            "Source": "versions"
+        },
+        {
+            "Updated": "2023-11-14T23:29:37.2497946+09:00",
+            "Version": "0.24.0",
+            "Name": "bat",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-04-11T23:26:16.9069378+09:00",
+            "Version": "2024.4.0",
+            "Name": "bitwarden",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-07T17:52:10.5310538+09:00",
+            "Version": "3.14",
+            "Name": "dark",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-11-10T21:54:12.4786272+09:00",
+            "Version": "4.0.6052",
+            "Name": "deepl",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-04-11T23:26:24.6392319+09:00",
+            "Version": "24.1.0",
+            "Name": "draw.io",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-11-14T23:24:00.3853374+09:00",
+            "Version": "1.4.1.1024",
+            "Name": "everything",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-07T17:52:11.7743078+09:00",
+            "Version": "1.1.0.27",
+            "Name": "everything-cli",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-04-11T23:26:26.243044+09:00",
+            "Version": "0.18.10",
+            "Name": "eza",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-02-17T11:04:52.4801472+09:00",
+            "Version": "9.0.0",
+            "Name": "fd",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-04-11T23:26:37.1945014+09:00",
+            "Version": "7.0",
+            "Name": "ffmpeg",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-02-17T11:08:42.1405513+09:00",
+            "Version": "0.21.2",
+            "Name": "freecad",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-04-11T23:26:38.7633056+09:00",
+            "Version": "0.49.0",
+            "Name": "fzf",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-02-17T11:09:57.1449672+09:00",
+            "Version": "13.2.0",
+            "Name": "gcc",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-11-14T23:34:38.8249905+09:00",
+            "Version": "7.0",
+            "Name": "gifcam",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-07T17:52:26.6164073+09:00",
+            "Version": "2.44.0",
+            "Name": "git",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-04-11T23:26:40.972812+09:00",
+            "Version": "3.2.0",
+            "Name": "hack-nf",
+            "Info": "",
+            "Source": "nerd-fonts"
+        },
+        {
+            "Updated": "2023-10-15T01:30:17.3434178+09:00",
+            "Version": "0.8.9",
+            "Name": "hterm",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-09-28T00:20:49.2948135+09:00",
+            "Version": "1.3_2023-07-21_0e150ed6c4",
+            "Name": "inkscape",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-10-05T12:21:08.2260858+09:00",
+            "Version": "0.50",
+            "Name": "innounp",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-04-11T23:26:47.5308987+09:00",
+            "Version": "3.2.0",
+            "Name": "jetbrainsmono-nf",
+            "Info": "",
+            "Source": "nerd-fonts"
+        },
+        {
+            "Updated": "2024-03-21T15:20:35.047242+09:00",
+            "Version": "3.8.0.3829",
+            "Name": "kakaotalk",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-11-14T23:29:51.1871603+09:00",
+            "Version": "643",
+            "Name": "less",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-10-05T19:58:54.4870595+09:00",
+            "Version": "4.4.1",
+            "Name": "make",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-02-23T16:57:17.9143931+09:00",
+            "Version": "0.9.5",
+            "Name": "neovim",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-04-11T23:26:55.1570707+09:00",
+            "Version": "21.7.3",
+            "Name": "nodejs",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-04-11T23:27:00.5482626+09:00",
+            "Version": "1.5.12",
+            "Name": "obsidian",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-02-17T11:18:27.2398422+09:00",
+            "Version": "3.2.1",
+            "Name": "openssl",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-03-21T15:21:49.5172804+09:00",
+            "Version": "2.6.10-I001",
+            "Name": "openvpn",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-07T17:52:49.4804024+09:00",
+            "Version": "240305",
+            "Name": "potplayer",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-07T17:54:41.36056+09:00",
+            "Version": "0.79.0",
+            "Name": "powertoys",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-02-23T16:39:43.7732099+09:00",
+            "Version": "3.12.2",
+            "Name": "python",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-02-17T11:20:05.8216205+09:00",
+            "Version": "14.1.0",
+            "Name": "ripgrep",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-03-23T09:41:04.5490106+09:00",
+            "Version": "1.27.0",
+            "Name": "rustup-gnu",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-02-17T11:20:38.2992511+09:00",
+            "Version": "3.4.17",
+            "Name": "sourcetree",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-04-11T23:27:09.1970321+09:00",
+            "Version": "1.18.2",
+            "Name": "starship",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2023-09-28T00:34:06.0045487+09:00",
+            "Version": "0.2020.01.26",
+            "Name": "sudo",
+            "Info": "",
+            "Source": "main"
+        },
+        {
+            "Updated": "2024-02-17T11:20:44.4285086+09:00",
+            "Version": "3.5.2",
+            "Name": "sumatrapdf",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-07T17:57:31.7956345+09:00",
+            "Version": "1.4.3.5",
+            "Name": "ultravnc",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-02-17T11:21:22.8318163+09:00",
+            "Version": "14.38.33135.0",
+            "Name": "vcredist2022",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-09-28T00:28:06.7558201+09:00",
+            "Version": "3.6.2",
+            "Name": "veusz",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-04-13T09:58:34.8407001+09:00",
+            "Version": "1.88.1",
+            "Name": "vscode",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-04-13T10:00:07.7719594+09:00",
+            "Version": "1.19.10821.0",
+            "Name": "windows-terminal",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-21T15:23:23.4123239+09:00",
+            "Version": "1.100.1",
+            "Name": "xnconvert",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-03-21T16:28:29.3961024+09:00",
+            "Version": "1.6.5",
+            "Name": "xnviewmp",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2023-09-27T22:49:08.3506824+09:00",
+            "Version": "1.1.13",
+            "Name": "z",
+            "Info": "",
+            "Source": "extras"
+        },
+        {
+            "Updated": "2024-02-17T11:22:20.7087611+09:00",
+            "Version": "8.01",
+            "Name": "zoomit",
+            "Info": "",
+            "Source": "sysinternals"
+        },
+        {
+            "Updated": "2024-03-23T09:42:43.7521034+09:00",
+            "Version": "6.0.36",
+            "Name": "zotero",
+            "Info": "",
+            "Source": "extras"
+        }
+    ]
+}
